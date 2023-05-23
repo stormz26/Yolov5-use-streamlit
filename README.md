@@ -5,8 +5,9 @@
 - Recognize text in images
 - Tracking objects with yolov5
 ## 2/ Run the program
-1/pip install -r requirements.txt
-2/streamlit run main.py
+- B1: pip install -r requirements.txt
+
+- B2 : streamlit run main.py
 ## 3/Results
   ### 3.1/screenshot
   
